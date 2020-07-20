@@ -1,0 +1,46 @@
+.content {
+  width: 80vw;
+}
+
+.content form {
+  padding: 30px 20px;
+  background-color: white;
+  width: 50vw;
+  border-radius: 8px;
+  border: thin solid #4682B490;
+  margin: 80px auto;
+}
+
+.content form input {
+  width: 100%;
+  margin: 5px 0 20px 0;
+  padding: 10px 0;
+  font-weight: 300;
+}
+
+.content form .btn-enviar {
+  font-size: 18px;
+  padding: 6px 10px;
+  background-color: #00CED1;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.content form p {
+  font-weight: 200;
+  margin-top: 20px;
+}
+
+.content form p a {
+  text-decoration: none;
+  font-weight: 400;
+  color: mediumblue;
+  cursor: pointer;
+
+}
+
+.content form p a:hover {
+  text-decoration: underline;
+}

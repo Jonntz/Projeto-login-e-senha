@@ -1,0 +1,13 @@
+.header_inicio {
+  background-color: black;
+  width: 100vw;
+  padding: 10px;
+  box-shadow: 0 5px 3px #80805040;
+}
+
+.header_inicio h1 {
+  color: white;
+  text-align: center;
+  font-size: 35px;
+  text-transform: uppercase;
+}
