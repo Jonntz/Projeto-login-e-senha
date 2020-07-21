@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "projeto-login"
+    }
+  },
+  "defaultProject": "projeto-login",
+  "cli": {
+    "analytics": "2ce7466d-653f-4f39-bbe2-67c0b90745a4"
+  }
 }
